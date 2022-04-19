@@ -20,4 +20,17 @@ As an example:
 ```console
  $ ruby game_of_life.rb ~/Projects/ruby2d/input_files_example/10_x_12_board.txt
 ```
+
+  Press 'p' to play and pause;
+
+  Press 'r' to reset the board to initial state;
+
+  Press 'c' to clear the board or;
+
+  Press 'x' to exit program.
+
+
+  Also you can use the mouse to interact with the board.
+
+
 **ENJOY!**
